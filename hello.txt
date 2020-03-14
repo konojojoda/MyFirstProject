@@ -2,4 +2,4 @@ hello git
 hello git
 hello git
 hello git
-master second
+master second(right)
